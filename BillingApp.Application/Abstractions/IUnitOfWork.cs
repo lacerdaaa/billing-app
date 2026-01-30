@@ -1,6 +1,6 @@
 namespace BillingApp.Application.Abstractions;
 
-public class IUnitOfWork
+public interface IUnitOfWork
 {
-    
+    Task<int> SaveChangesAsync(CancellationToken ct);
 }
