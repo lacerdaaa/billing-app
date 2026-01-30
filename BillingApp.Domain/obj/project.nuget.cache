@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GdO7sGyAfQFet6zaee6gPFlAfwa+w8iiG+ecV6WBNzAdY3AAza50e7YIIfgdqWSHyNZYGcp+lHYz52CGLLr+Qw==",
+  "dgSpecHash": "xAKvr7HDi+E=",
   "success": true,
-  "projectFilePath": "/home/lacerda/BillingApp.Domain/BillingApp.Domain.csproj",
+  "projectFilePath": "/home/lacerda/billing-dotnet/BillingApp.Domain/BillingApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

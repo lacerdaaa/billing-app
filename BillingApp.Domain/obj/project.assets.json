@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lacerda/BillingApp.Domain/BillingApp.Domain.csproj",
+      "projectUniqueName": "/home/lacerda/billing-dotnet/BillingApp.Domain/BillingApp.Domain.csproj",
       "projectName": "BillingApp.Domain",
-      "projectPath": "/home/lacerda/BillingApp.Domain/BillingApp.Domain.csproj",
+      "projectPath": "/home/lacerda/billing-dotnet/BillingApp.Domain/BillingApp.Domain.csproj",
       "packagesPath": "/home/lacerda/.nuget/packages/",
-      "outputPath": "/home/lacerda/BillingApp.Domain/obj/",
+      "outputPath": "/home/lacerda/billing-dotnet/BillingApp.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lacerda/.nuget/NuGet/NuGet.Config"

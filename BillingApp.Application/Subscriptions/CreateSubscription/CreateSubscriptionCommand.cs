@@ -1,0 +1,6 @@
+namespace BillingApp.Application.Subscriptions.CreateSubscription;
+
+public class CreateSubscriptionCommand
+{
+    
+}

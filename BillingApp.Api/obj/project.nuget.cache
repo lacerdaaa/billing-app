@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7Zg0PtoRICE4DHvA0HPQQauPreNJkglJhUfxXRcXaOnzOxW9OeRc9EBAMsIMspiGaOMJegDbS7BoTd9L+vTsLw==",
+  "dgSpecHash": "oMby11BYQpg=",
   "success": true,
   "projectFilePath": "/home/lacerda/billing-dotnet/BillingApp.Api/BillingApp.Api.csproj",
   "expectedPackageFiles": [
